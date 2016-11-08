@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">BasicMagic</string>
+
+    <string name="title_section1">Life Counter</string>
+    <string name="title_section2">Dice</string>
+    <string name="title_section3">Rules</string>
+    <string name="title_section4">Video Tutorials</string>
+    <string name="title_section5">Round Timer</string>
+    <string name="player1">Player One</string>
+    <string name="player2">Player Two</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="sub1">-1</string>
+    <string name="action_example"> </string>
+    <string name="dice_heads">HEADS</string>
+    <string name="dice_tails">TAILS</string>
+    <string name="mana_pool_zero" translatable="false">0</string>
+    <string name="life_counter_twenty" translatable="false">20</string>
+    <string name="addone">+1</string>
+    <string name="add5">+5</string>
+    <string name="sub5">-5</string>
+    <string name="action_settings">Log In</string>
+    <string name="reset">RESET</string>
+    <string name="success">Successful Login!</string>
+    <string name="title_activity_youtube_tut2">youtube_tut2</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_youtube_tut3">youtube_tut3</string>
+    <string name="title_activity_read_comments">Successful Login</string>
+    <string name="title_activity_youtube_tut4">youtube_tut4</string>
+    <string name="title_activity_youtube_tut5">youtube_tut5</string>
+    <string name="title_activity_youtube_tut6">youtube_tut6</string>
+    <string name="title_activity_general_rules">General Rules</string>
+    <string name="title_activity_golde_rules">Golde Rules</string>
+    <string name="title_activity_player_rules">Player Rules</string>
+    <string name="title_activity_starting_game">Starting_game</string>
+    <string name="title_activity_ending_game">Ending_gam</string>
+    <string name="title_activity_colors">Colors</string>
+    <string name="title_activity_mana">Mana</string>
+    <string name="pauseButtonLabel">Pause</string>
+    <string name="startButtonLabel">Start</string>
+    <string name="title_activity_parts_of_a_card">Parts of a Card</string>
+    <string name="title_activity_card_types">Card Types</string>
+    <string name="title_activity_zones">Zones</string>
+    <string name="title_activity_turn_structure">Turn Structure</string>
+    <string name="title_activity_spells">Spells, Abilities, and Effects</string>
+    <string name="title_activity_additional_rules">Additional Rules</string>
+    <string name="title_activity_multiplayer_rules">Multiplayer Rules</string>
+    <string name="title_activity_parts_of_a_card_name">Name</string>
+    <string name="title_activity_login">Login BasicMagic</string>
+    <string name="title_activity_register">Register for BasicMagic</string>
+    <string name="title_activity_successful_login_basic_magic">Successful Login BasicMagic</string>
+
+</resources>
